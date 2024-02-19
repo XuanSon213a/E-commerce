@@ -31,3 +31,4 @@ Making the website usable and accessible on many platforms (desktops, tablets, a
 Programming languages: HTML + CSS + JS
 Frameworks: ReactJs  ExpressJs
 Tools: VS code, Firebase Stripe
+https://docs.google.com/document/d/1jZd7ZELjzkc_apf0dddzfXfLoMWivbsn1qav7pAzdrs/edit?fbclid=IwAR3zsYFDn5S_C5YyHc1haDzD_oZNdoBPgEJ4vd-gjymPi67Rkk7oQu8jgYc
