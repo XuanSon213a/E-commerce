@@ -28,6 +28,9 @@ A user-friendly interface will be provided by the website to present a huge sele
 Responsive Design
 Making the website usable and accessible on many platforms (desktops, tablets, and smartphones).
 <img src="https://i.imgur.com/2meP5a0.png">
+<img src="https://i.imgur.com/tLzwMLM.png">
+<img src="https://i.imgur.com/0WePj5v.png">
+<img src="https://i.imgur.com/dL9HZRy.png">
 ----Technologies
 Programming languages: HTML + CSS + JS
 Frameworks: ReactJs  ExpressJs
