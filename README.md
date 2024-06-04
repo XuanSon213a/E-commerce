@@ -27,6 +27,7 @@ Product Showcase
 A user-friendly interface will be provided by the website to present a huge selection of automobile components that are properly organized for simple navigation. Customers will be able to read descriptions and browse goods.
 Responsive Design
 Making the website usable and accessible on many platforms (desktops, tablets, and smartphones).
+<img src="https://imgur.com/a/JgqEkTl">
 ----Technologies
 Programming languages: HTML + CSS + JS
 Frameworks: ReactJs  ExpressJs
